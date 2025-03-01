@@ -1,0 +1,6 @@
+{
+    "name": "brincar_e_contectar",
+    "version": "1.0.0",
+    "description": "Brincadeiras in JSON.",
+    "main": "brincadeiras.json"
+}
